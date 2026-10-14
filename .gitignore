@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 虚拟环境
+venv/
+env/
+
+# 附件与比赛文件（因为可能非常大，不建议传 Git）
+Attachments/
+*.pcap
+*.zip
+*.rar
+*.7z
+*.elf
+*.exe
+*.out
+
+# 密码字典（可能太大）
+*.txt
+!requirements.txt
